@@ -1,3 +1,4 @@
 test.txt v2
 conflict
 test.txt
+conflict
